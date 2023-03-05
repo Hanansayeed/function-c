@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678036547 source:c:\users\tiba computer sat\desktop\codeblocks\digit num\main.c
+	<stdio.h>
+	<stdlib.h>
+
