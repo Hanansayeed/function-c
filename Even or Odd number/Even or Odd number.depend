@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678224507 source:c:\users\tiba computer sat\desktop\codeblocks\even or odd number\main.c
+	<stdio.h>
+	<stdlib.h>
+
