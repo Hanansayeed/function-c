@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1678355224 source:c:\users\tiba computer sat\desktop\codeblocks\struct\fun.c
+	"header.h"
+
+1678623583 c:\users\tiba computer sat\desktop\codeblocks\struct\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1678623738 source:c:\users\tiba computer sat\desktop\codeblocks\struct\main.c
+	"header.h"
+
