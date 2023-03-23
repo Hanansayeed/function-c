@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1679568991 source:c:\users\tiba computer sat\desktop\codeblocks\school management system\function.c
+	"header.h"
+
+1679568991 c:\users\tiba computer sat\desktop\codeblocks\school management system\header.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1679484360 source:c:\users\tiba computer sat\desktop\codeblocks\school management system\main.c
+	"header.h"
+
